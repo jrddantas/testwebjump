@@ -1,0 +1,15 @@
+{
+  "name": "wj",
+  "version": "1.0.0",
+  "description": "testwj",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "junior dantas",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "cypress-iframe": "^1.0.1"
+  }
+}
