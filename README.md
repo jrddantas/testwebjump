@@ -39,13 +39,15 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
   - npm init (OBS: como o projeto já foi iniciado só é necessário dar ENTER nas sugestões)
   - npm i cypress --save-dev
   - npm i cypress-iframe --save-dev
-    Alguns desses comando são somente para ter certeza de que está tudo correto. 
+  
+  -  Alguns desses comando são somente para ter certeza de que está tudo correto. 
         depois de rodar deve ser criados dois arquivos. o packge-lock.json e o node_modules
 
 
   Abra a pasta INTEGRATION
     
 <img src='/imagensReadme/estrutura-pastas.jpeg' width=40% height=40%>
+
   - Nessa pasta está os arquivos do teste.
   - Para o rodar o cypres e abrir a interface para rodar os scripts é necessário dar o comando:
     - npm run test
