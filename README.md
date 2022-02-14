@@ -10,7 +10,7 @@ Esse repositório foi criado para subir os arquivos necessários rodar o script 
 ### Índice :scroll: 
 - Ferramentas
 - Executando os Testes
-- Embora a instalação dos programas sejam simples deixei ao final alguns links para ajuda na instalação.
+- Projeto feito em
 
 ### Ferramentas
 
@@ -31,17 +31,20 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
 - Depois de ter instalado todas as ferramentas, siga para o Visual Studio Code
  <div align='center'>
      <img src='/imagensReadme/vscode.jpeg' width=40% height=40%>
+   
     
+  Abra a pasta:
+    
+<img src='/imagensReadme/estrutura-pastas.jpeg' width=40% height=40%>
 
-    ##### Para abrir vá em:
-
-
-- File
-- Open Projects from file system. Irá abrir uma caixa para você selecionar qual arquivo deseja abrir.
-- clique em Directory...
-- Selecione a pasta onde voce clonou o repositório.
-
-    <img src='/imagensReadme/estrutura-pastas.jpeg' width=40% height=40%>
-    <img src='/imagensReadme/testes.jpeg' width=40% height=40%>
-    <img src='/imagensReadme/cypress.jpeg' width=40% height=40%>
+ ##### Em seguida:
+    
+<img src='/imagensReadme/testes.jpeg' width=40% height=40%>
+     
+ Siga para o Teste:
+    
+    
+ Projeto feito Em:
+    
+<img src='/imagensReadme/cypress.jpeg' width=40% height=40%>
  
