@@ -65,7 +65,11 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
 
   - Nessa pasta está os arquivos do teste.
   - Para o rodar o cypres e abrir a interface para rodar os scripts é necessário dar o comando:
-    - npm run test
+    
+ ```bash   
+    npm run test
+ ```
+    
   - Após isso é só selecionar na interface qual caso de teste deseja rodar.
 
  ##### Em seguida abra o Projeto:
@@ -75,5 +79,7 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
       
  PROJETO FEITO EM CYPRESS
     
-<img src='/imagensReadme/cypress.jpeg' width=40% height=40%>
+<p align="center">
+  <a href="https://www.cypress.io"><img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"/></a>
+</p>
  
