@@ -10,8 +10,7 @@ Esse repositório foi criado para subir os arquivos necessários rodar o script 
 ### Índice :scroll: 
 - Ferramentas
 - Executando os Testes
-- Projeto feito em
-
+- Framework do Teste:
 ### Ferramentas
 
 Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui vai um guia rápido para a instalação dessas ferramentas:
@@ -19,7 +18,7 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
 
 - [Cypress.io](https://docs.cypress.io/guides/getting-started/installing-cypress)
 - [Cypress/iframe](https://npm.io/package/cypress-iframe)
-- [Node.js](https://nodejs.org/en/download/)
+- [Node.JS](https://nodejs.org/en/download/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - Linux Mint Cinamon 20.1
 
