@@ -22,6 +22,7 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
 - [Cypress.io](https://docs.cypress.io/guides/getting-started/installing-cypress)
 - [Cypress/iframe](https://npm.io/package/cypress-iframe)
 - [Node.js](https://nodejs.org/en/download/)
+- [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs: Ao clicar você será redirecionado para a página de download.
@@ -35,7 +36,7 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
    No terminal, insira os comando como na documentação para iniciar o projeto node e instalar e rodar o cypress.
 
   - npm install
-  - npm init
+  - npm init (OBS: como o projeto já foi iniciado só é necessário dar ENTER nas sugestões)
   - npm i cypress --save-dev
   - npm i cypress-iframe --save-dev
     Alguns desses comando são somente para ter certeza de que está tudo correto. 
@@ -49,7 +50,7 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
   - Para o rodar o cypres e abrir a interface para rodar os scripts é necessário dar o comando:
     - npm run test
   - Após isso é só selecionar na interface qual caso de teste deseja rodar.
-   
+
  ##### Em seguida abra o Projeto:
     
 <img src='/imagensReadme/testes.jpeg' width=40% height=40%>
