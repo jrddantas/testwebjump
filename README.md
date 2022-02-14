@@ -32,11 +32,24 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
  <div align='center'>
      <img src='/imagensReadme/vscode.jpeg' width=40% height=40%>
    
-    
+   No terminal, insira os comando como na documentação para iniciar o projeto node e instalar e rodar o cypress.
+
+  - npm install
+  - npm init
+  - npm i cypress --save-dev
+  - npm i cypress-iframe --save-dev
+    Alguns desses comando são somente para ter certeza de que está tudo correto. 
+        depois de rodar deve ser criados dois arquivos. o packge-lock.json e o node_modules
+
+
   Abra a pasta INTEGRATION
     
 <img src='/imagensReadme/estrutura-pastas.jpeg' width=40% height=40%>
-
+  - Nessa pasta está os arquivos do teste.
+  - Para o rodar o cypres e abrir a interface para rodar os scripts é necessário dar o comando:
+    - npm run test
+  - Após isso é só selecionar na interface qual caso de teste deseja rodar.
+   
  ##### Em seguida abra o Projeto:
     
 <img src='/imagensReadme/testes.jpeg' width=40% height=40%>
