@@ -11,5 +11,13 @@
   "devDependencies": {
     "cypress": "^9.4.1",
     "cypress-iframe": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrddantas/testwebjump.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jrddantas/testwebjump/issues"
+  },
+  "homepage": "https://github.com/jrddantas/testwebjump#readme"
 }
