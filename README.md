@@ -2,7 +2,7 @@
     <div align='center'>Teste de Automação - QA - WebJump</div>
 </h1>
 <div align='center'>
-    <img src="http://img.shields.io/static/v1?label=status%20&message=concluido&color=-green"/>
+    <img src="http://img.shields.io/static/v1?label=STATUS%20&message=CONCLUIDO&color=-green"/>
 </div>
 </br>
 Esse repositório foi criado para subir os arquivos necessários rodar o script de testes do desafio.
