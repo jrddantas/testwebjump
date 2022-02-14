@@ -30,4 +30,4 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
 
 - Depois de ter instalado todas as ferramentas, siga para o Visual Studio Code
 - <div align='center'>
-     <img src='/
+     <img src='/imagensReadme/vscode.jpeg width=40% height=40%>
