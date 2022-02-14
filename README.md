@@ -33,11 +33,11 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
      <img src='/imagensReadme/vscode.jpeg' width=40% height=40%>
    
     
-  Abra a pasta:
+  Abra a pasta INTEGRATION
     
 <img src='/imagensReadme/estrutura-pastas.jpeg' width=40% height=40%>
 
- ##### Em seguida:
+ ##### Em seguida abra o Projeto:
     
 <img src='/imagensReadme/testes.jpeg' width=40% height=40%>
      
