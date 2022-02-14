@@ -53,10 +53,8 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
   - npm i cypress-iframe --save-dev
   ```
     
-  -  Alguns desses comando são somente para ter certeza de que está tudo correto. 
-        depois de rodar deve ser criados dois arquivos.
-    
-    o packge-lock.json e o node_modules.
+  -  Alguns desses comando são somente para ter certeza de que está tudo correto,
+     depois de rodar deve ser criados dois arquivos. O packge-lock.json e o node_modules.
 
 
   Abra a pasta INTEGRATION
