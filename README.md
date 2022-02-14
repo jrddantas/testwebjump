@@ -35,13 +35,28 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
    
    No terminal, insira os comando como na documentação para iniciar o projeto node e instalar e rodar o cypress.
 
-  - npm install
-  - npm init (OBS: como o projeto já foi iniciado só é necessário dar ENTER nas sugestões)
-  - npm i cypress --save-dev
-  - npm i cypress-iframe --save-dev
+  ```bash  
+  npm install
+  ```
+- Em Seguida:
   
+  ```bash    
+  npm init 
+  ```
+    
+-  OBS: como o projeto já foi iniciado só é necessário dar ENTER nas sugestões
+    
+  ```bash  
+  npm i cypress --save-dev
+  ```
+  ```bash  
+  - npm i cypress-iframe --save-dev
+  ```
+    
   -  Alguns desses comando são somente para ter certeza de que está tudo correto. 
-        depois de rodar deve ser criados dois arquivos. o packge-lock.json e o node_modules
+        depois de rodar deve ser criados dois arquivos.
+    
+    o packge-lock.json e o node_modules.
 
 
   Abra a pasta INTEGRATION
