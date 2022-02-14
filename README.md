@@ -54,7 +54,7 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
   ```
     
   -  Alguns desses comando são somente para ter certeza de que está tudo correto,
-     depois de rodar deve ser criados dois arquivos. O packge-lock.json e o node_modules.
+                depois de rodar deve ser criados dois arquivos. O packge-lock.json e o node_modules.
 
 
   Abra a pasta INTEGRATION
