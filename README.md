@@ -35,4 +35,4 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
     <img src='/imagensReadme/estrutura-pastas.jpeg' width=40% height=40%>
     <img src='/imagensReadme/testes.jpeg' width=40% height=40%>
     <img src='/imagensReadme/cypress.jpeg' width=40% height=40%>
-    
+ 
