@@ -41,10 +41,8 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
     
 <img src='/imagensReadme/testes.jpeg' width=40% height=40%>
      
- Siga para o Teste:
-    
-    
- Projeto feito Em:
+      
+ PROJETO FEITO EM CYPRESS
     
 <img src='/imagensReadme/cypress.jpeg' width=40% height=40%>
  
