@@ -29,8 +29,17 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
 ### Para Executar os Testes
 
 - Depois de ter instalado todas as ferramentas, siga para o Visual Studio Code
-- <div align='center'>
+ <div align='center'>
      <img src='/imagensReadme/vscode.jpeg' width=40% height=40%>
+    
+
+    ##### Para abrir vá em:
+
+
+- File
+- Open Projects from file system. Irá abrir uma caixa para você selecionar qual arquivo deseja abrir.
+- clique em Directory...
+- Selecione a pasta onde voce clonou o repositório.
 
     <img src='/imagensReadme/estrutura-pastas.jpeg' width=40% height=40%>
     <img src='/imagensReadme/testes.jpeg' width=40% height=40%>
