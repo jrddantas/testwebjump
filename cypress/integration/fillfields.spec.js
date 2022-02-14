@@ -1,9 +1,7 @@
-const { type } = require("cypress/types/jquery")
-
 describe('fill fields',function(){
     it('fill fields', function(){
         //visitando o site
-        cy.visit('https://wejump-automation-test.github.io/qa-test/')
+        cy.visit('https://wejump-automation-test.github.io/qa-test/', { timeout: 100000})
 
    
         //preencher o campo "Seu Primeiro Nome"
@@ -13,7 +11,7 @@ describe('fill fields',function(){
         //checando a opção três
         cy.get('#opt_three').check()
         //selecionando exemplo dois
-        cy.get('select[id="select_box"]').select('ExampleTwo').should('option_two')
+        cy.get('select[id="select_box"]').select('ExampleTwo').should('have.value', 'option_two')
         //validando imagem 
         cy.get('img[alt="selenium"]').should('be.visible')
     })
