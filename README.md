@@ -28,4 +28,6 @@ Foram necessarias algumas ferramentas para o desenvolvimento deste software aqui
 
 ### Para Executar os Testes
 
-- Depois de ter instalado todas as ferramentas
+- Depois de ter instalado todas as ferramentas, siga para o Visual Studio Code
+- <div align='center'>
+     <img src='/
